@@ -4,6 +4,10 @@ Nếu tạo trên điện thoại, khả năng cao sẽ không mua in-app đư�
 
 Dùng Proxifier giúp cả app giả lập bay sang Thổ luôn, nên operator nó sẽ ghi là Tur.... gì đó thì tiến hành làm.
 
+Khi thanh toán trên điện thoại, cần sử dụng Proxifier cài đặt proxy mới có thể thanh toán In-app nhé. 
+
+Lúc thử trên giả lập thì không cần dùng proxy nên loan tin sai. Xkn lỗi anh em nhé. 
+
 Anh em đọc kĩ từng bước làm, đừng bỏ chỗ nào nhé. Bỏ, sai ráng chịu.
 
 # 1. Đăng kí tài khoản tại iproyal 
@@ -112,7 +116,6 @@ Tiến hành mua 1 app trên giả lập, mua app 1TL mini game giá 1TRY nhé. 
 Hiện thế này là lỗi thẻ không đủ tiền nhé
 
 <img width="492" alt="image" src="https://github.com/thangnd85-1/g/assets/136178950/a81fe256-216b-468a-a230-1bbe82e628de">
-
 
 
 
