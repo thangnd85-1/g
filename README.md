@@ -82,11 +82,16 @@ Khởi động lại LDPlayer, thông tin mạng đổi sang Tur là ok
 
 <img width="254" alt="image" src="https://github.com/thangnd85-1/g/assets/136178950/a4fc2a1f-6089-45ae-b398-6f6e47b84d5a">
 
-Vào CH Play tạo mới tài khoản, đến phần Nhập điện thoại có thể Bỏ qua
+Vào CH Play tạo mới tài khoản, đến phần Nhập điện thoại có thể Bỏ qua. Nếu dính Verify thì bạn vao IPROyal và chọn Manage > Rotate
+
+<img width="431" alt="image" src="https://github.com/thangnd85-1/g/assets/136178950/b15b169c-d144-407f-ac26-48b52f68ca40">
+
 
 Sau khi thành công bạn vào tiếp CH Play để thêm thẻ ở Việt Nam. Ưu tiên dùng thẻ Visa (debit hay credit đều ok), thẻ Visa Vietinbank 
 
 Tiến hành mua 1 app trên giả lập, mua app 1TL mini game giá 1TRY nhé. Nếu mua thành công là ok rồi đó.
+
+
 
 
 
