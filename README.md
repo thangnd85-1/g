@@ -1,5 +1,6 @@
 # 1. Đăng kí tài khoản tại iproyal 
-Ủng hộ mình tại link https://iproyal.com?r=307790
+Ủng hộ mình tại link https://iproyal.com?r=thangnd85
+
 Bấm Register và nhập các thông tin cần thiết, có thể tham khảo hình
 
 <img width="410" alt="image" src="https://github.com/thangnd85-1/g/assets/136178950/8ee91f6f-56de-471f-b485-8e8697e84933">
