@@ -1,4 +1,11 @@
+# Lưu ý:
+
+Nếu tạo trên điện thoại, khả năng cao sẽ không mua in-app được, vì thông tin network operator (nhà mạng di động) vẫn là VN
+
+Dùng Proxifier giúp cả app giả lập bay sang Thổ luôn, nên operator nó sẽ ghi là Tur.... gì đó thì tiến hành làm.
+
 # 1. Đăng kí tài khoản tại iproyal 
+
 Ủng hộ mình tại link https://iproyal.com?r=thangnd85
 
 Bấm Register và nhập các thông tin cần thiết, có thể tham khảo hình
@@ -83,7 +90,9 @@ Khởi động lại LDPlayer, thông tin mạng đổi sang Tur là ok
 
 <img width="254" alt="image" src="https://github.com/thangnd85-1/g/assets/136178950/a4fc2a1f-6089-45ae-b398-6f6e47b84d5a">
 
-Vào CH Play tạo mới tài khoản, đến phần Nhập điện thoại có thể Bỏ qua. Nếu dính Verify thì bạn vao IPROyal và chọn Manage > Rotate
+Vào CH Play tạo mới tài khoản, đến phần Nhập điện thoại có thể Bỏ qua. Nếu dính Verify thì bạn vao IPROyal và chọn Manage > Reset All Session
+
+Lưu ý đừng chọn High-end pool, số lượng IP ít, đễ trùng
 
 <img width="431" alt="image" src="https://github.com/thangnd85-1/g/assets/136178950/b15b169c-d144-407f-ac26-48b52f68ca40">
 
@@ -91,6 +100,17 @@ Vào CH Play tạo mới tài khoản, đến phần Nhập điện thoại có 
 Sau khi thành công bạn vào tiếp CH Play để thêm thẻ ở Việt Nam. Ưu tiên dùng thẻ Visa (debit hay credit đều ok), thẻ Visa Vietinbank 
 
 Tiến hành mua 1 app trên giả lập, mua app 1TL mini game giá 1TRY nhé. Nếu mua thành công là ok rồi đó.
+
+Đây là hình ảnh mua thực tế in-app
+
+![image](https://github.com/thangnd85-1/g/assets/136178950/60a12dd6-7032-47de-add8-f5b86b112556)
+
+![image](https://github.com/thangnd85-1/g/assets/136178950/ab9953c5-40e1-40a7-80c2-7414561ca30c)
+
+Hiện thế này là lỗi thẻ không đủ tiền nhé
+
+<img width="492" alt="image" src="https://github.com/thangnd85-1/g/assets/136178950/a81fe256-216b-468a-a230-1bbe82e628de">
+
 
 
 
