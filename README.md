@@ -4,6 +4,8 @@ Nếu tạo trên điện thoại, khả năng cao sẽ không mua in-app đư�
 
 Dùng Proxifier giúp cả app giả lập bay sang Thổ luôn, nên operator nó sẽ ghi là Tur.... gì đó thì tiến hành làm.
 
+Anh em đọc kĩ từng bước làm, đừng bỏ chỗ nào nhé. Bỏ, sai ráng chịu.
+
 # 1. Đăng kí tài khoản tại iproyal 
 
 Ủng hộ mình tại link https://iproyal.com?r=thangnd85
@@ -54,7 +56,7 @@ Sử dụng ứng dụng Proxifier (tải và lấy key trên mạng sẵn có).
 
 <img width="285" alt="image" src="https://github.com/thangnd85-1/g/assets/136178950/271017d4-9a8f-4e4c-aff5-ea5129b97f82">
 
-Bấm OK để lưu lại
+Bấm OK để lưu lại, trong lúc đó nó hiện bảng gì thì cứ Yes hết nhé.
 
 Tiếp tục tạo rule 
 
@@ -86,7 +88,7 @@ Nhập thủ công và lưu
 
 <img width="499" alt="image" src="https://github.com/thangnd85-1/g/assets/136178950/51525569-b10e-44b2-83a1-8ae3da4cbd06">
 
-Khởi động lại LDPlayer, thông tin mạng đổi sang Tur là ok
+Khởi động lại LDPlayer, thông tin mạng đổi sang Tur là ok <<< Lưu ý: Nếu nó không hiện mạng Turkey thì khả năng cao acc sẽ lỗi.
 
 <img width="254" alt="image" src="https://github.com/thangnd85-1/g/assets/136178950/a4fc2a1f-6089-45ae-b398-6f6e47b84d5a">
 
