@@ -22,7 +22,7 @@ Tiến hành Verify email xong, vào giao diện Dashboard, chọn Royal Residen
 
 <img width="357" alt="image" src="https://github.com/thangnd85-1/g/assets/136178950/0d730626-9f7a-4c4e-a12b-72e3c479e03f">
 
-Nhập mã Đã hết mã, nên mua 2GB để nhận giảm 15%
+Nhập mã KNOJI10 giảm 10%, nên mua 2GB để nhận giảm 15%
 và Apply
 
 <img width="475" alt="image" src="https://github.com/thangnd85-1/g/assets/136178950/4953aef8-e320-41dc-8066-f30e51853d45">
